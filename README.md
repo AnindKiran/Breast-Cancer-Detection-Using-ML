@@ -1,5 +1,5 @@
 <div align="center">
-<img src = "https://github.com/AnindKiran/Breast-Cancer-Detection-Using-ML/blob/master/mscope.png" width = "15%" height = "15%">
+<img src = "https://github.com/AnindKiran/Breast-Cancer-Detection-Using-ML/blob/master/mscope.png" width = "10%" height = "10%">
 </div>
 
 
