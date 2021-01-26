@@ -11,7 +11,7 @@ The dataset used can be found in the repository, along with the source code. Tra
 
 > Alternately, the dataset used can be found in the following link: <a> https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/ </a>, and the dataset is titled 'breast-cancer-wisconsin.data'.  
 
-** NOTE: ** The dataset used is the Wisconsin Standard Dataset. There is another dataset available for Breast Cancer Detection, but we're not making use of that. 
+**NOTE:** The dataset used is the Wisconsin Standard Dataset. There is another dataset available for Breast Cancer Detection, but we're not making use of that. 
 
 
 
